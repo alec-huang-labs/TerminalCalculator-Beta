@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TerminalCalculator-Beta/static/css/main.2e616e62.chunk.css",
+    "main.js": "/TerminalCalculator-Beta/static/js/main.0c6733e8.chunk.js",
+    "main.js.map": "/TerminalCalculator-Beta/static/js/main.0c6733e8.chunk.js.map",
+    "runtime-main.js": "/TerminalCalculator-Beta/static/js/runtime-main.711324cf.js",
+    "runtime-main.js.map": "/TerminalCalculator-Beta/static/js/runtime-main.711324cf.js.map",
+    "static/js/2.292230ea.chunk.js": "/TerminalCalculator-Beta/static/js/2.292230ea.chunk.js",
+    "static/js/2.292230ea.chunk.js.map": "/TerminalCalculator-Beta/static/js/2.292230ea.chunk.js.map",
+    "index.html": "/TerminalCalculator-Beta/index.html",
+    "precache-manifest.068c3ceed23b3398dc78f2062e40c39d.js": "/TerminalCalculator-Beta/precache-manifest.068c3ceed23b3398dc78f2062e40c39d.js",
+    "service-worker.js": "/TerminalCalculator-Beta/service-worker.js",
+    "static/css/main.2e616e62.chunk.css.map": "/TerminalCalculator-Beta/static/css/main.2e616e62.chunk.css.map",
+    "static/js/2.292230ea.chunk.js.LICENSE.txt": "/TerminalCalculator-Beta/static/js/2.292230ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.711324cf.js",
+    "static/js/2.292230ea.chunk.js",
+    "static/css/main.2e616e62.chunk.css",
+    "static/js/main.0c6733e8.chunk.js"
+  ]
+}
