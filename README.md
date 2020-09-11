@@ -1,5 +1,5 @@
 
-## 'Terminal Calculator'
+## `Terminal Calculator`
 
 Purpose of this project was to practice building with React and working with the [mathjs](https://mathjs.org) library. 
 
