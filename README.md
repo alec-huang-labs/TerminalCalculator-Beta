@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can view the project [here](https://alec-huang-labs.github.io/TerminalCalculator-Beta/).
+## 'Terminal Calculator'
 
-Or you can download the project to your machine and in the project directory, you can run:
+Purpose of this project was to practice building with React and working with the [mathjs](https://mathjs.org) library. 
+
+You can view the project [here](https://alec-huang-labs.github.io/TerminalCalculator-Beta/).This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You can download the project to your machine and in the project directory, you can run:
 
 ### `npm start`
 
